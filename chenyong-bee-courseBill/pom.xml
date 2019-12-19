@@ -7,6 +7,13 @@
 	<groupId>chenyong-bee-courseBill</groupId>
 	<artifactId>chenyong-bee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>chenyong-bee-courseBill</groupId>
+			<artifactId>chenyong-bee</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 	<packaging>pom</packaging>
 	<name>chenyong-bee</name>
 
